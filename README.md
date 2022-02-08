@@ -61,6 +61,6 @@ iotset1 การเตรียมการเพื่อพัฒนา micro
 
 ทดลองกับเซนเซอร์แสง เมื่อต่อกับเซนเซอร์ ถ้ามีแสงสว่างเข้ามาค่าจะเป็น 0 ไฟติด ไม่มีแสงค่าจะเป็น 1 ไฟดับ
 
-05 run wifi
+05 run wifi นำ microcontroller ESP-01 มาป้อนคำสั่ง ให้เชื่อมตัวกับ wifi ที่เราเลือกไว้ เพื่อใช้ในการ setup web server ถ้าหากมีการเชื่อมโยง จะมีการ cnt ไปเรื่อย ๆ 
 
-06 run wiri AP
+06 run wiri AP นำ microcontroller ESP-01 มาป้อนคำสั่ง ให้สร้าง wifi access point ขึ้นมาเอง โดยกำหนด IP Address และเตรียม web server  เมื่อเสร็จ อุปกรณ์อื่น ๆ ก็จะสามารถเชื่อมต่อ wifi จาก microcontroller ESP-01 ได้

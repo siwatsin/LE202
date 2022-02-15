@@ -10,9 +10,9 @@
 
 พอร์ท input/output : 
 
-4x USB 3.2 Gen 1 Type A Ports (1 Charging Port)
+- 4x USB 3.2 Gen 1 Type A Ports (1 Charging Port)
 
-1x MicroUSB Console Port
+- 1x MicroUSB Console Port
 
 # Buy Raspberry Pi 4 Model B
 ราคา : 1,132.60 บาท
@@ -25,15 +25,15 @@
 
 พอร์ท input/output : 
 
-USB-C, 2 USB 3.0 ports; 2 USB 2.0 ports
+- USB-C, 2 USB 3.0 ports; 2 USB 2.0 ports
 
-2 × micro-HDMI ports (up to 4kp60 supported)
+- 2 × micro-HDMI ports (up to 4kp60 supported)
 
-2-lane MIPI DSI display port
+- 2-lane MIPI DSI display port
 
-2-lane MIPI CSI camera port
+- 2-lane MIPI CSI camera port
 
-4-pole stereo audio and composite video port
+- 4-pole stereo audio and composite video port
 
 # Black Adafruit Feather RP2040
 ราคา : 386.98 บาท
@@ -46,17 +46,17 @@ USB-C, 2 USB 3.0 ports; 2 USB 2.0 ports
 
 พอร์ท input/output :
 
-3.3V Power/enable pin
+- 3.3V Power/enable pin
 
-SWD debug port 
+- SWD debug port 
 
-4 mounting holes
+- 4 mounting holes
 
-12 MHz crystal for perfect timing.
+- 12 MHz crystal for perfect timing.
 
-3.3V regulator with 500mA peak current output
+- 3.3V regulator with 500mA peak current output
 
-USB Type C connector
+- USB Type C connector
 
 # Arduino Nano RP2040 Connect
 ราคา : 808.23 บาท
@@ -69,13 +69,13 @@ USB Type C connector
 
 พอร์ท input/output : 
 
-14x Digital Pin
+- 14x Digital Pin
 
-8x Analog Pin
+- 8x Analog Pin
 
-Micro USB
+- Micro USB
 
-UART, SPI, I2C Support
+- UART, SPI, I2C Support
 
 # ATMEGA4809 CURIOSITY NANO
 ราคา : 614.88 บาท
@@ -88,18 +88,18 @@ UART, SPI, I2C Support
 
 พอร์ท input/output :
 
-One green power and status LED
+- One green power and status LED
 
-Virtual COM port (CDC)
+- Virtual COM port (CDC)
 
-Two logic analyzer channels (DGI GPIO)
+- Two logic analyzer channels (DGI GPIO)
 
-USB powered
+- USB powered
 
-Adjustable target voltage
+- Adjustable target voltage
 
-MIC5353 LDO regulator controlled by the onboard debugger
+- MIC5353 LDO regulator controlled by the onboard debugger
 
-1.8-5.1 V output voltage (limited by USB input voltage)
+- 1.8-5.1 V output voltage (limited by USB input voltage)
 
-500 mA maximum output current (limited by ambient temperature and output voltage)
+- 500 mA maximum output current (limited by ambient temperature and output voltage)

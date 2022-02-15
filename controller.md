@@ -1,5 +1,5 @@
 # สำรวจ บอร์ด ไมโครคอนโทรเลอร์
-## SiFive Freedom U740 
+# SiFive Freedom U740 
 ราคา : 23,009.00 บาท
 
 ลิงค์ : https://www.sifive.com/boards/hifive-unmatched
@@ -14,7 +14,7 @@
 
 1x MicroUSB Console Port
 
-### Buy Raspberry Pi 4 Model B
+# Buy Raspberry Pi 4 Model B
 ราคา : 1,132.60 บาท
 
 ลิงค์ : https://www.raspberrypi.com/products/raspberry-pi-4-model-b/
@@ -35,7 +35,7 @@ USB-C, 2 USB 3.0 ports; 2 USB 2.0 ports
 
 4-pole stereo audio and composite video port
 
-#### Black Adafruit Feather RP2040
+# Black Adafruit Feather RP2040
 ราคา : 386.98 บาท
 
 ลิงค์ : https://www.adafruit.com/product/4884
@@ -58,7 +58,7 @@ SWD debug port
 
 USB Type C connector
 
-##### Arduino Nano RP2040 Connect
+# Arduino Nano RP2040 Connect
 ราคา : 808.23 บาท
 
 ลิงค์ : https://docs.arduino.cc/hardware/nano-rp2040-connect
@@ -77,7 +77,7 @@ Micro USB
 
 UART, SPI, I2C Support
 
-###### ATMEGA4809 CURIOSITY NANO
+# ATMEGA4809 CURIOSITY NANO
 ราคา : 614.88 บาท
 
 ลิงค์ : https://www.microchip.com/en-us/development-tool/DM320115

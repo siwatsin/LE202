@@ -66,6 +66,6 @@ void setup()
 - Serial.begin(115200) คือ การตั้งความเร็วในการส่งข้อมูล 115200 ครั้งต่อวินาที
 - มาป้อนคำสั่ง ให้สร้าง wifi access point ขึ้นมาเอง 
 - โดยกำหนด IP Address และเตรียม web server
-- 
+
 void loop()
 - ถ้าหากสำเร็จอุปกรณ์อื่น ๆ ก็จะสามารถเชื่อมต่อ wifi จาก microcontroller ESP-01 ได้
